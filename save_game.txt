@@ -1,0 +1,1 @@
+{"word":"Margaret","current_correct":["a","e","r"],"current_incorrect":[],"attempts":5}
